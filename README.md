@@ -1,7 +1,3 @@
-<p align="left">
-  <img alt="STATISTICS" width="540px" src="https://github-readme-stats.vercel.app/api?username=dockerlead&count_private=true&show_icons=true&theme=gruvbox" />
-</p>
-
 <h3 align="left">Programming Languages</h3>
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
